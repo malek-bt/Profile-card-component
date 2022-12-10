@@ -31,7 +31,7 @@ Mobile version
 
 ### Links
 
-- Solution URL: [Code on GitHub]()
+- Solution URL: [Code on GitHub](https://github.com/malek-bt/Profile-card-component)
 - Live Site URL: [GitHub Pages Live URL]()
 
 ## My process
